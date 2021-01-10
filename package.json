@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/JOKES-API/issues"
   },
-  "homepage": "https://github.com/alestor123/JOKES-API#readme"
+  "homepage": "https://github.com/alestor123/JOKES-API#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
